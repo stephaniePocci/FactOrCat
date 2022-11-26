@@ -1,14 +1,14 @@
 # Fact or Cap 🧢
 
-Fall 2022 Project
-CPSC 440-04
+    Fall 2022 Project
+    CPSC 440-04
 
 ### Members:         
     
-   Shaleen Mathur  
+    Shaleen Mathur  
     Kirsten Ochoa    
     Mike Ploythai  
-   Stephanie Pocci 
+    Stephanie Pocci 
 
 ### Materials Used:
    * Arduino UNO
