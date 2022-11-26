@@ -1,4 +1,4 @@
-# FactorCap
+# Fact-or-Cap
 
 ## CPSC 440
 
