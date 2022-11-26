@@ -1,7 +1,7 @@
 # Fact or Cap 🧢
 
-## Fall 2022 Project
-## CPSC 440-04
+Fall 2022 Project
+CPSC 440-04
 
 ### Members:         
     
