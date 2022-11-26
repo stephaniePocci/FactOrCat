@@ -1,8 +1,9 @@
 # FactorCap
 
-Group Members:
-
--Shaleen Mathur
--Kirsten Ochoa 
--Mike Ploythai
--Stephanie Pocci 
+      Members         
+  :--------------:  
+   Shaleen Mathur  
+    Kirsten Ochoa    
+    Mike Ploythai  
+   Stephanie Pocci 
+  
