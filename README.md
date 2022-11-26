@@ -1,11 +1,18 @@
-# Fact-or-Cap
+# Fact or Cap 🧢
 
 ## CPSC 440
 
-   Members:         
+### Members:         
     
    Shaleen Mathur  
     Kirsten Ochoa    
     Mike Ploythai  
    Stephanie Pocci 
+
+### Materials Used:
+   * Arduino UNO
+   * Ultrasonic Sensor
+   * LCD Display Screen
+   * Jumper Cables
+   * Breadboard
   
