@@ -1,6 +1,6 @@
 # FactorCap
 
-      Members:         
+   Members:         
     
    Shaleen Mathur  
     Kirsten Ochoa    
