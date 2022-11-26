@@ -4,11 +4,10 @@
     CPSC 440-04
 
 ### Members:         
-    
-    Shaleen Mathur  
-    Kirsten Ochoa    
+    Shaleen Mathur   
+    Kirsten Ochoa  
     Mike Ploythai  
-    Stephanie Pocci 
+    Stephanie Pocci  
 
 ### Materials Used:
    * Arduino UNO
