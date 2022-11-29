@@ -13,6 +13,7 @@
    * Arduino UNO
    * Ultrasonic Sensor
    * LCD Display Screen
-   * Jumper Cables
+   * 8 Watt Speaker (CQRobot)
+   * Jumper wires
    * Breadboard
   
